@@ -1,0 +1,22 @@
+{
+  "name": "arraypaginator",
+  "version": "1.0.0",
+  "description": "Turns one array into an array of many arrays based on provided options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven4547466/paginator.git"
+  },
+  "author": "steven4547466",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/steven4547466/paginator/issues"
+  },
+  "homepage": "https://github.com/steven4547466/paginator#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
